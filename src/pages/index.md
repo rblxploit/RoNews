@@ -21,28 +21,34 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: |
-        We sell knowledge transfer for 0.02$
-    - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We sell knowledge transfer for 0.02$ and we are the only one in the
+        market that can do this. Others don't have the experience. Knowledge
+        transfer is useful when you just got your new Einstein brain and you
+        wanna accumulate new knowledge that you could not accumulate before
+        because your cps rate was too high.
+    - image: /img/coffee-gear.png
+      text: >-
+        We also offer an option that helps you find a job. Normally, people with
+        high cps rate get fewer jobs which is sad and unfair but with our
+        option, you get a job in seconds. Many of our clients got jobs as
+        Youtubers like Felix Arvid Ulf Kjellberg (Pewdiepie) and Gulshan Kumar
+        (founder of T-Series).
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Unlike the other ones, we never scammed a single cent of people's money
+        and we have invested in NASA which helped build technology that are in
+        you smartphone. Basically, without GetSmartBrains, you would not have a
+        phone. Also, you will get your money back, instantly because we
+        guarantee you that you would find a job in seconds.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        We believe that intelligence should not only be for the rich, but for
+        everyone and that people that perform badly in institutions should have
+        the right to get a better brain for themselves. Bill Gates once said: "I
+        was an idiot and I bought a brain from GetSmartBrain and here I am!".
+        GetSmartBrain is committed to your brain and if you wanna get smarter,
+        you can get a free consultation in Antarctica.
   heading: What we offer
   description: >-
     We offer Einstein brains for 29.99$, Surgery for 69.99$ and Knowledge
