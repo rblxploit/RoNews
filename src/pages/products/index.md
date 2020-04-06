@@ -27,6 +27,8 @@ testimonials:
     quote: I tried GetSmartBrain and it worked
   - author: 'HEY OH NO, Wabson, Wabz or whatever you call me'
     quote: Yeah for me too it worked. So cool!
+  - quote: I bought it for free and it worked
+    author: Artic
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Brain surgery and implant
