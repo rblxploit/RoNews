@@ -1,30 +1,28 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Smart brains for cheap
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great brains for quick maths
+subheading: 'If you are stupid, this is the right place.'
 mainpitch:
-  title: Why Kaldi
+  title: Why us
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We cloned the brain of Einstein so that dumb people can become smarter than
+    what they are. They won't become as smart as Einstein but they will be
+    treated of their stupidity. A simple formula explains how smart you will be.
+    Intelligence is measured in confusion per second (cps). Einstein has 0 cps
+    and if we say someone has 30 cps (normal rate of cps is 0.0000001), he will
+    have a (30 - 0)*0.000003 which is 0.00009 cps.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  A lot of our customers have an IQ of 2 but we told them that IQ dosen't
+  measure intelligence it's only cps that does. So we charged them 100$ for
+  surgery and they got smarter and got an IQ of 86, which is still better than
+  all those techniques that involve school.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |
+        We sell knowledge transfer for 0.02$
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -46,11 +44,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    We offer Einstein brains for 29.99$, Surgery for 69.99$ and Knowledge
+    transfer for 0.02$. Please contact us if you want a better brain.
 main:
   heading: Great coffee with no compromises
   description: >
