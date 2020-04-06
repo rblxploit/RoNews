@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Smart brains for cheap
-image: /img/home-jumbotron.jpg
+image: /img/unnamed.jpg
 heading: Great brains for quick maths
 subheading: 'If you are stupid, this is the right place.'
 mainpitch:
@@ -20,28 +20,28 @@ description: >-
   all those techniques that involve school.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/11-28-sophia-robot.jpg
       text: >
         We sell knowledge transfer for 0.02$ and we are the only one in the
         market that can do this. Others don't have the experience. Knowledge
         transfer is useful when you just got your new Einstein brain and you
         wanna accumulate new knowledge that you could not accumulate before
         because your cps rate was too high.
-    - image: /img/coffee-gear.png
+    - image: /img/einstein_vp_innovation.jpg
       text: >-
         We also offer an option that helps you find a job. Normally, people with
         high cps rate get fewer jobs which is sad and unfair but with our
         option, you get a job in seconds. Many of our clients got jobs as
         Youtubers like Felix Arvid Ulf Kjellberg (Pewdiepie) and Gulshan Kumar
         (founder of T-Series).
-    - image: /img/tutorials.png
+    - image: /img/knowledge_transfer.svg.png
       text: >
         Unlike the other ones, we never scammed a single cent of people's money
         and we have invested in NASA which helped build technology that are in
         you smartphone. Basically, without GetSmartBrains, you would not have a
         phone. Also, you will get your money back, instantly because we
         guarantee you that you would find a job in seconds.
-    - image: /img/meeting-space.png
+    - image: /img/products20549-640x640-592019517.jpg
       text: >-
         We believe that intelligence should not only be for the rich, but for
         everyone and that people that perform badly in institutions should have
